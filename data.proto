@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package HackThe6ix;
+
+import "google/protobuf/timestamp.proto";
+
+message User {
+    optional string name = 1;
+    optional int32 userid = 2;
+
+    message dataPoint {
+        optional float resistance = 1;
+        google.protobuf.Timestamp datetime = 2;
+    }
+
+    repeated dataPoint data = 3;
+}
+
+message UserDataBase {
+    repeated User users = 1;
+}
