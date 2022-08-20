@@ -43,6 +43,5 @@ void loop() {
 
     sensor.set_datetime(cur_time);
 
-    std::ofstream ofs("user.data", std::ios_base::out | std::ios_base::binary);
-    sensor.SerializeToOstream(&ofs);
+    sensor.SerializeToString(&data);
 }
