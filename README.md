@@ -1,4 +1,4 @@
-### ` `![](https://github.com/cameron7702/iYashi/tree/master/Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png)
+![alt text](https://github.com/cameron7702/iYashi/tree/master/Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png)
 ## Product Summary
 - iYashi is a motorized rehabilitation device that aids individuals to regain their motor functions. iYashi works hand in hand to create personalized rehabilitation training for specific accidents, primarily caused by strokes and other nerve injuries. 
 - The demo device showcases a glove that makes resistive training for easy hand-based rehabilitation. This device connects to our UI-friendly app that allows patients to directly monitor their progress via visually friendly graphs from data taken from the device. A hand was chosen as the demo because it requires the most movement, however, this same concept can be applied to legs, arms, or any motor function. 
