@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
     <img src = "/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png" width="512" height="157">   
-  <h4 align="center"> By: Abdellah Ghassel, Shashank Ojha, Cameron Smith & Joshua Gonzales </h2>
+  <h4 align="center"> By: Abdellah Ghassel, Shashank Ojha, Cameron Smith & Joshua Gonzales </h4>
   </div>
  
 <!-- TABLE OF CONTENTS -->
