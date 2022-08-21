@@ -1,19 +1,50 @@
-![alt text](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png)
+<div id="top"></div>
+<!-- PROJECT LOGO -->
+<div align="center">
+    <img src = "/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png" width="512" height="157">   
+  <h4 align="center"> By: Abdellah Ghassel, Shashank Ojha, Amir Rafati & Joshua Gonzales </h2>
+  </div>
+ 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#mission-statement">Mission Statement</a></li>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#how-it-works">How It Works</a></li>
+    <li><a href="#verification">Verification</a></li>
+    <li><a href="#get-resources">Get Resources</a></li>
+    <li><a href="#find-a-home">Find a Home</a></li>
+    <li><a href="#marketing-strategystakeholders">Marketing Strategy/Stakeholders</a></li>
+    <li><a href="#next-steps-for-the-future">Next Steps for the Future</a></li>
+  </ol>
+</details>
+
+## Mission Statement
+- Our mission is rooted in our name, iYashi stems from the Japanese word for healing. We believe everyone regardless of their race, ethnicity and financial barriers deserve to regain their mobility, as it is an extension of their humanity. 
+- At iYashi, we believe everyone has the right to good health, so we want to develop a device that helps restore motor functions for individuals who suffer from accidents. As many people are limited by financial constraints to visit an orthopedic specialist or continuous appointments with physiotherapists, we developed a low-cost device to provide therapy straight from one home.
+
+<h3 align="center">Rehabilitating the healthcare system.</h3>
+
 ## Product Summary
 - iYashi is a motorized rehabilitation device that aids individuals to regain their motor functions. iYashi works hand in hand to create personalized rehabilitation training for specific accidents, primarily caused by strokes and other nerve injuries. 
 - The demo device showcases a glove that makes resistive training for easy hand-based rehabilitation. This device connects to our UI-friendly app that allows patients to directly monitor their progress via visually friendly graphs from data taken from the device. A hand was chosen as the demo because it requires the most movement, however, this same concept can be applied to legs, arms, or any motor function. 
 - The device may provide exercises to target specific movements by altering tensions on varying fingers. In addition, it offers to strengthen the goal of having the patient resist the highest tension offered by the device. Lastly, it provides edema control by directly targeting their active motion. 
 
-![](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)
+<div align="center">
 
-![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.003.jpeg)
-## Mission Statement: rehabilitating the healthcare system
-- Our mission is rooted in our name, iYashi stems from the Japanese word for healing. We believe everyone regardless of their race, ethnicity and financial barriers deserve to regain their mobility, as it is an extension of their humanity. 
-- At IYashi, we believe everyone has the right to good health, so we want to develop a device that helps restore motor functions for individuals who suffer from accidents. As many people are limited by financial constraints to visit an orthopedic specialist or continuous appointments with physiotherapists, we developed a low-cost device to provide therapy straight from one home.
+|![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)|![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.003.jpeg)|
+| :- | :- |
+
+</div>
+
 ## Problem Statement
 - Imagine you suddenly get into a car crash. In the United States, an average of $60 000 is spent on hospital bills, and now you need to pay for rehabilitation treatment to return to your everyday life. The average cost of outpatient stroke rehabilitation services and medications within the first year is $17,081 USD [1]. Also, taken in the mean day off time is 125 +/- 69 days [2] for these injuries and currently, 64% of Americans are now living paycheck to paycheck [3].
 
-![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.004.png)
+<p align="center">  
+<img src = "Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.004.png" width="414" height="200">   
+ </p>
+ 
 
 - ` `As Canadians with a public healthcare system in Canada, we are fortunate enough to have most of these costs covered. But imagine that you do not have health insurance, likely living in a dangerous area and working a blue-collar job more prone to injuries. Unfortunately, this nightmare is the reality for the majority of people around the world.
 - Even in developed countries like the United States, almost 20% of the population is not covered by health insurance, accounting for almost 65 million residents! Now with an average income of $31,133 USD, major hospital bills, on top of rehabilitation treatment are next to impossible [6]! This situation is even worse for refugees, individuals in remote communities, and developing countries.
@@ -23,7 +54,13 @@
 - Most arm and hand rehabilitation treatments are due to strokes, which is the leading cause of long-term disability among adults.
 - Also, despite appropriate care and neurorehabilitation, over 60% of stroke survivors suffer from the incomplete recovery of motor functions, compromising their daily living.
 
+<div align="center">
+
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)
+
+</div>
+
+
 ## Product and Applications 
 ### Product Description
 - We want to create kits developed with medical professionals that cost a fraction of the cost of current treatments.
@@ -47,9 +84,15 @@
 - We will strive to work with the medical professionals, engineers, and leaders of industry to enhance this product’s functionality and expand its uses.
 - This product offers lots of potential for investors, as it has applications in the $37 Billion Fitness Industry [7] and the $46.4 Physical Therapy Industry in the United States [8]. 
 
+<div align="center">
+
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.006.png)
 
+</div>
+
 ## Projected Cost Breakdown
+
+<div align="center">
 
 |**Bill of Materials**||
 | :-: | :-: |
@@ -59,12 +102,24 @@
 |Snapdragon Chip (400 series)|$17.96|
 |Miscellaneous (Wires, Circuitry, etc.)|$5.11|
 
+</div>
+
 ## Target Market/Stakeholders 
+
+<div align="center">
+
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.007.png)
 
+</div>
 
 ## Technical Specifications 
+
+<div align="center">
+
 ![](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.008.png)
+
+</div>
+
 ### Software
 - **Arduino**
   - Arduino was used for all the electrical components and a 20 kg servo motor was used to create tension.
@@ -77,10 +132,12 @@
   - The data is serialized into a string, which will then be passed as an HTTPS request to the front-end, seamlessly updating the user progress as they use the device. 
   - By serializing the data, the information can be transferred in real-time, allowing user progress to be visualized as they use the device.
 
+<div align="center">
 
 |![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.009.png)|![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.010.png)|
 | :- | :- |
 
+</div>
 
 - **Website and App - Flutter/Expo**
   - Ordering the kit and signing up 
@@ -94,6 +151,7 @@
 - **SolidWorks**
   - The gadget was constructed using SolidWorks. The wristband was created with various screw holes, so that there is versatility in where the various components can be mounted, to allow for the most optimal position of the motor and the tensioning device. 
 
+<div align="center">
 
 |<p>**String Attachment** </p><p>![A picture containing metalware, hinge Description automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.011.png)</p>|<p>![IconDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Ring Attachment**</p><p></p>|<p>![A picture containing arrowDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.013.png)**Tensioner** </p><p></p>|
 | :- | :- | :- |
@@ -101,6 +159,7 @@
 
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.016.png)
 
+</div>
 
 - **CURA**
   - After an assembly was created with all the components. Each component is converted to G-Code via CURA for the Ender 3 V2. 
@@ -108,7 +167,11 @@
 - **Tinkercad**
   - Diagrams and initial programming tests were done via Tinkercad to ensure the Arduino UNO was functioning correctly.
 
+<div align="center">
+
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.017.png)
+
+</div>
 
 ## Next Steps/Timeline 
 - Consult with professionals to optimize and refine the design.
