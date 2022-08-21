@@ -4,7 +4,7 @@
 - The demo device showcases a glove that makes resistive training for easy hand-based rehabilitation. This device connects to our UI-friendly app that allows patients to directly monitor their progress via visually friendly graphs from data taken from the device. A hand was chosen as the demo because it requires the most movement, however, this same concept can be applied to legs, arms, or any motor function. 
 - The device may provide exercises to target specific movements by altering tensions on varying fingers. In addition, it offers to strengthen the goal of having the patient resist the highest tension offered by the device. Lastly, it provides edema control by directly targeting their active motion. 
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)
+![alt text](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)
 
 ![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.003.jpeg)
 ## Mission Statement: rehabilitating the healthcare system
