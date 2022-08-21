@@ -1,19 +1,19 @@
-![alt text](https://github.com/cameron7702/iYashi/blob/master/Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png)
+![alt text](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png)
 ## Product Summary
 - iYashi is a motorized rehabilitation device that aids individuals to regain their motor functions. iYashi works hand in hand to create personalized rehabilitation training for specific accidents, primarily caused by strokes and other nerve injuries. 
 - The demo device showcases a glove that makes resistive training for easy hand-based rehabilitation. This device connects to our UI-friendly app that allows patients to directly monitor their progress via visually friendly graphs from data taken from the device. A hand was chosen as the demo because it requires the most movement, however, this same concept can be applied to legs, arms, or any motor function. 
 - The device may provide exercises to target specific movements by altering tensions on varying fingers. In addition, it offers to strengthen the goal of having the patient resist the highest tension offered by the device. Lastly, it provides edema control by directly targeting their active motion. 
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)
+![](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.002.png)
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.003.jpeg)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.003.jpeg)
 ## Mission Statement: rehabilitating the healthcare system
 - Our mission is rooted in our name, iYashi stems from the Japanese word for healing. We believe everyone regardless of their race, ethnicity and financial barriers deserve to regain their mobility, as it is an extension of their humanity. 
 - At IYashi, we believe everyone has the right to good health, so we want to develop a device that helps restore motor functions for individuals who suffer from accidents. As many people are limited by financial constraints to visit an orthopedic specialist or continuous appointments with physiotherapists, we developed a low-cost device to provide therapy straight from one home.
 ## Problem Statement
 - Imagine you suddenly get into a car crash. In the United States, an average of $60 000 is spent on hospital bills, and now you need to pay for rehabilitation treatment to return to your everyday life. The average cost of outpatient stroke rehabilitation services and medications within the first year is $17,081 USD [1]. Also, taken in the mean day off time is 125 +/- 69 days [2] for these injuries and currently, 64% of Americans are now living paycheck to paycheck [3].
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.004.png)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.004.png)
 
 - ` `As Canadians with a public healthcare system in Canada, we are fortunate enough to have most of these costs covered. But imagine that you do not have health insurance, likely living in a dangerous area and working a blue-collar job more prone to injuries. Unfortunately, this nightmare is the reality for the majority of people around the world.
 - Even in developed countries like the United States, almost 20% of the population is not covered by health insurance, accounting for almost 65 million residents! Now with an average income of $31,133 USD, major hospital bills, on top of rehabilitation treatment are next to impossible [6]! This situation is even worse for refugees, individuals in remote communities, and developing countries.
@@ -23,7 +23,7 @@
 - Most arm and hand rehabilitation treatments are due to strokes, which is the leading cause of long-term disability among adults.
 - Also, despite appropriate care and neurorehabilitation, over 60% of stroke survivors suffer from the incomplete recovery of motor functions, compromising their daily living.
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.005.jpeg)
 ## Product and Applications 
 ### Product Description
 - We want to create kits developed with medical professionals that cost a fraction of the cost of current treatments.
@@ -47,24 +47,24 @@
 - We will strive to work with the medical professionals, engineers, and leaders of industry to enhance this product’s functionality and expand its uses.
 - This product offers lots of potential for investors, as it has applications in the $37 Billion Fitness Industry [7] and the $46.4 Physical Therapy Industry in the United States [8]. 
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.006.png)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.006.png)
 
 ## Projected Cost Breakdown
 
-|**Bill of Materials**|
-| :-: |
+|**Bill of Materials**||
+| :-: | :-: |
 |PLA|$1.91 - $5.99|
 |TPU|$1.21 - $4.29|
-|Servo Motor|` `$21.00|
+|Servo Motor|$21.00|
 |Snapdragon Chip (400 series)|$17.96|
 |Miscellaneous (Wires, Circuitry, etc.)|$5.11|
 
 ## Target Market/Stakeholders 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.007.png)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.007.png)
 
 
 ## Technical Specifications 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.008.png)
+![](/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.008.png)
 ### Software
 - **Arduino**
   - Arduino was used for all the electrical components and a 20 kg servo motor was used to create tension.
@@ -78,7 +78,7 @@
   - By serializing the data, the information can be transferred in real-time, allowing user progress to be visualized as they use the device.
 
 
-|![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.009.png)|![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.010.png)|
+|![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.009.png)|![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.010.png)|
 | :- | :- |
 
 
@@ -95,23 +95,11 @@
   - The gadget was constructed using SolidWorks. The wristband was created with various screw holes, so that there is versatility in where the various components can be mounted, to allow for the most optimal position of the motor and the tensioning device. 
 
 
-|<p>**String Attachment** </p><p>![A picture containing metalware, hinge
-
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.011.png)</p>|<p>![Icon
-
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Ring Attachment**</p><p></p>|<p>![A picture containing arrow
-
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.013.png)**Tensioner** </p><p></p>|
+|<p>**String Attachment** </p><p>![A picture containing metalware, hinge Description automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.011.png)</p>|<p>![IconDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Ring Attachment**</p><p></p>|<p>![A picture containing arrowDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.013.png)**Tensioner** </p><p></p>|
 | :- | :- | :- |
-|<p></p><p>![A picture containing text
+|<p></p><p>![A picture containing textDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Motor Mount**</p>|<p></p><p>![A picture containing iconDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.014.png)**LCD Mount**</p><p></p>|<p></p><p>![A picture containing logoDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.015.png)**Wrist Band** </p>|
 
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Motor Mount**</p>|<p></p><p>![A picture containing icon
-
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.014.png)**LCD Mount**</p><p></p>|<p></p><p>![A picture containing logo
-
-Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.015.png)**Wrist Band** </p>|
-
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.016.png)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.016.png)
 
 
 - **CURA**
@@ -120,7 +108,7 @@ Description automatically generated](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-
 - **Tinkercad**
   - Diagrams and initial programming tests were done via Tinkercad to ensure the Arduino UNO was functioning correctly.
 
-![](Images/Apose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.017.png)
+![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.017.png)
 
 ## Next Steps/Timeline 
 - Consult with professionals to optimize and refine the design.
