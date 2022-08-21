@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
     <img src = "/Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.001.png" width="512" height="157">   
-  <h4 align="center"> By: Cameron Smith, Shashank Ojha, Amir Rafati & Joshua Gonzales </h2>
+  <h4 align="center"> By: Abdellah Ghassel, Shashank Ojha, Cameron Smith & Joshua Gonzales </h2>
   </div>
  
 <!-- TABLE OF CONTENTS -->
@@ -10,13 +10,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#mission-statement">Mission Statement</a></li>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#how-it-works">How It Works</a></li>
-    <li><a href="#verification">Verification</a></li>
-    <li><a href="#get-resources">Get Resources</a></li>
-    <li><a href="#find-a-home">Find a Home</a></li>
-    <li><a href="#marketing-strategystakeholders">Marketing Strategy/Stakeholders</a></li>
-    <li><a href="#next-steps-for-the-future">Next Steps for the Future</a></li>
+    <li><a href="#product-summary">Product Summary</a></li>
+    <li><a href="#product-statement">Problem Statement</a></li>
+    <li><a href="#product-and-applications">Product and Applications</a></li>
+    <li><a href="#product-goals">Product Goals</a></li>
+    <li><a href="#projected-cost-breakdown">Projected Cost Breakdown</a></li>
+    <li><a href="#next-steps/timeline">Next Steps/Timeline</a></li>
+    <li><a href="#sources">Sources</a></li>
   </ol>
 </details>
 
@@ -46,7 +46,7 @@
  </p>
  
 
-- ` `As Canadians with a public healthcare system in Canada, we are fortunate enough to have most of these costs covered. But imagine that you do not have health insurance, likely living in a dangerous area and working a blue-collar job more prone to injuries. Unfortunately, this nightmare is the reality for the majority of people around the world.
+- As Canadians with a public healthcare system in Canada, we are fortunate enough to have most of these costs covered. But imagine that you do not have health insurance, likely living in a dangerous area and working a blue-collar job more prone to injuries. Unfortunately, this nightmare is the reality for the majority of people around the world.
 - Even in developed countries like the United States, almost 20% of the population is not covered by health insurance, accounting for almost 65 million residents! Now with an average income of $31,133 USD, major hospital bills, on top of rehabilitation treatment are next to impossible [6]! This situation is even worse for refugees, individuals in remote communities, and developing countries.
   - For this reason, iYashi is passionate to create a more affordable and sustainable Rehabilitation system that can bring more equity to those who need it. 
 ## Current Options
@@ -153,9 +153,7 @@
 
 <div align="center">
 
-|<p>**String Attachment** </p><p>![A picture containing metalware, hinge Description automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.011.png)</p>|<p>![IconDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Ring Attachment**</p><p></p>|<p>![A picture containing arrowDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.013.png)**Tensioner** </p><p></p>|
-| :- | :- | :- |
-|<p></p><p>![A picture containing textDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.012.png)**Motor Mount**</p>|<p></p><p>![A picture containing iconDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.014.png)**LCD Mount**</p><p></p>|<p></p><p>![A picture containing logoDescription automatically generated](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.015.png)**Wrist Band** </p>|
+![](Images/attachments.png)
 
 ![](Images/Aspose.Words.d80e3d0c-ac7d-405a-9354-4bdf09b784b7.016.png)
 
@@ -178,6 +176,7 @@
 - Create a better prototype with a snapdragon chip, customized PCB board and Bluetooth connectivity.
 - Different prototypes to target other areas of the body, such as feet and toe mobility. 
 - Potentially extend into the fitness target with increased tension variety to target specialized muscular hypertrophy.
+
 ## Sources
 [1] [Cost associated with stroke: outpatient rehabilitative services and medication](https://pubmed.ncbi.nlm.nih.gov/22120036/)
 
